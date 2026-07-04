@@ -1,8 +1,7 @@
 {
   "name": "week3-crud-api-",
   "version": "1.0.0",
-  "main": "app.js",
-  "scripts": {
+   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
