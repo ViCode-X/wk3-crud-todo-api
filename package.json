@@ -2,7 +2,7 @@
   "name": "wk3-crud-api",
   "version": "1.0.0",
   "description": "My Week 3 app",
-    "scripts": {
+  "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   "type": "commonjs",
   "dependencies": {
     "dotenv": "^17.4.2",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "joi": "^18.2.3"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
